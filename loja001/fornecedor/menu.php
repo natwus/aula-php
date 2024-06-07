@@ -134,4 +134,3 @@
 </body>
 
 </html>
-<!-- viewBox="0 0 520 612" height="1.2em" class="icon" -->
