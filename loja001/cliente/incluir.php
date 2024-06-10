@@ -43,6 +43,7 @@
             background-color: transparent;
             padding: 8px;
             border-radius: 23px;
+            color: #fff;
         }
 
         label {

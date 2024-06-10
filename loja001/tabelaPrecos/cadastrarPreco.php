@@ -43,6 +43,7 @@
             background-color: transparent;
             padding: 8px;
             border-radius: 23px;
+            color: #fff;
         }
 
         label {
@@ -124,6 +125,10 @@
             border-radius: 23px;
             color: #ccc;
             cursor: pointer;
+        }
+
+        select option {
+            background-color: #333;
         }
     </style>
 </head>
