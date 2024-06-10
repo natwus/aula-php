@@ -100,7 +100,7 @@
         <h1>Menu Grupo</h1>
     </header>
     <main>
-        <form action="incluir.php">
+        <form action="cadastrarGrupo.php">
             <button class="bookmarkBtn">
                 <span class="IconContainer">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 612" height="1.2em" class="icon">
