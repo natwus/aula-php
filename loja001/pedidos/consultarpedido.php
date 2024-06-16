@@ -93,9 +93,9 @@
             align-items: center;
             position: relative;
             padding: 0.1em 1em;
-            border: red solid 0.15em;
+            border: black solid 0.15em;
             border-radius: 0.25em;
-            color: red;
+            color: white;
             font-size: 1.5em;
             font-weight: 600;
             cursor: pointer;
